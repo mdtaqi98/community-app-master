@@ -1,6 +1,9 @@
-# analise_test
+# community-app
 
 A new Flutter project.
+
+Do not change the flutter plugin versions
+
 
 ## Getting Started
 
